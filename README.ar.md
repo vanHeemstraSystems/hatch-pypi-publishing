@@ -1,16 +1,16 @@
-اسم المستودع
+repository-name
 
-# Repository Name
+# اسم المستودع
 
 [مراجع](./REFERENCES.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 نص
 
 ## 100- مقدمة
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
@@ -18,7 +18,7 @@
 
 ## 300 – بناء تطبيقنا
 
-See [README.md](./300/README.md)
+يرى[README.md](./300/README.md)
 
 ## 400 - الخاتمة
 
