@@ -1,8 +1,8 @@
-repository-name
+भंडार-नाम
 
 # भंडार का नाम
 
-[References](./REFERENCES.md)
+[संदर्भ](./REFERENCES.md)
 
 **कार्यकारी सारांश**
 
