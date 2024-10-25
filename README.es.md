@@ -2,7 +2,7 @@ nombre-repositorio
 
 # Nombre del repositorio
 
-[References](./REFERENCES.md)
+[Referencias](./REFERENCES.md)
 
 **Resumen ejecutivo**
 
