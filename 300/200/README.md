@@ -29,5 +29,3 @@ See [README.md](./600/README.md)
 ## 700 - Running Scripts in an Environment
 
 See [README.md](./700/README.md)
-
-MORE
