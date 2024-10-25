@@ -2,7 +2,7 @@
 
 # 儲存庫名稱
 
-[參考](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **Executive Summary**
 
@@ -22,4 +22,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
