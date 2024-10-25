@@ -1,6 +1,6 @@
-repository-name
+اسم المستودع
 
-# اسم المستودع
+# Repository Name
 
 [مراجع](./REFERENCES.md)
 
@@ -10,16 +10,16 @@ repository-name
 
 ## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
-See [README.md](./200/README.md)
+يرى[README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
-يرى[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
