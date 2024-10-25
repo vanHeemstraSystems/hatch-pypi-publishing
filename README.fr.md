@@ -1,10 +1,10 @@
 nom du référentiel
 
-# Repository Name
+# Nom du référentiel
 
-[References](./REFERENCES.md)
+[Références](./REFERENCES.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
@@ -12,7 +12,7 @@ Texte
 
 Voir[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
