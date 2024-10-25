@@ -1,7 +1,11 @@
 repository-name
 # Repository Name
 
-Based on "ABC" at https://www.abc.com/
+[References](./REFERENCES.md)
+
+**Executive Summary**
+
+Text
 
 ## 100 - Introduction
 
