@@ -2,7 +2,11 @@ nom du référentiel
 
 # Nom du référentiel
 
-Basé sur "ABC" à<https://www.abc.com/>
+[Références](./REFERENCES.md)
+
+**Résumé exécutif**
+
+Texte
 
 ## 100 - Présentation
 
@@ -14,7 +18,7 @@ Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
