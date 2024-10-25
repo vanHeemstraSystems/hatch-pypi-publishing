@@ -6,7 +6,7 @@ nom du référentiel
 
 **Résumé exécutif**
 
-Texte
+Text
 
 ## 100 - Introduction
 
