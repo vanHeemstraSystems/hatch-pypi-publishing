@@ -1,4 +1,4 @@
-repository-name
+Repository-Name
 
 # Repository-Name
 
@@ -16,7 +16,7 @@ Sehen[README.md](./100/README.md)
 
 Sehen[README.md](./200/README.md)
 
-## 300 – Erstellen unserer Anwendung
+## 300 - Building Our Application
 
 Sehen[README.md](./300/README.md)
 
