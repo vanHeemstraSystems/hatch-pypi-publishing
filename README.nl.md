@@ -2,13 +2,13 @@ repositorynaam
 
 # Naam van opslagplaats
 
-[Referenties](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **Samenvatting**
 
-Tekst
+Text
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
@@ -22,4 +22,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-See [README.md](./400/README.md)
+Zien[README.md](./400/README.md)
