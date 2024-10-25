@@ -1,0 +1,7 @@
+[tool.hatch.envs.default]
+dependencies = [
+  "coverage[toml]>=6.5",
+  "flask"
+]
+[tool.hatch.envs.default.scripts]
+app = "python src/hatch_demo/app.py"
