@@ -2,7 +2,7 @@ Repository-Name
 
 # Repository-Name
 
-[Referenzen](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **Zusammenfassung**
 
