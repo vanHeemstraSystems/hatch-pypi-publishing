@@ -1,4 +1,4 @@
-repository-name
+儲存庫名稱
 
 # 儲存庫名稱
 
@@ -8,7 +8,7 @@ repository-name
 
 文字
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
