@@ -2,11 +2,11 @@
 
 # 儲存庫名稱
 
-[References](./REFERENCES.md)
+[參考](./REFERENCES.md)
 
-**Executive Summary**
+**執行摘要**
 
-文字
+Text
 
 ## 100 - 簡介
 
@@ -20,6 +20,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400 - Conclusion
 
 See [README.md](./400/README.md)
