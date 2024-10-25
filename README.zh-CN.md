@@ -6,15 +6,15 @@
 
 **执行摘要**
 
-Text
+文本
 
 ## 100 - 简介
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 

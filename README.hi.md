@@ -2,7 +2,7 @@
 
 # भंडार का नाम
 
-[संदर्भ](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **कार्यकारी सारांश**
 
