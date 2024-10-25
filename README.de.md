@@ -2,7 +2,11 @@ Repository-Name
 
 # Repository-Name
 
-Basierend auf „ABC“ unter<https://www.abc.com/>
+[References](./REFERENCES.md)
+
+**Zusammenfassung**
+
+Text
 
 ## 100 - Einführung
 
