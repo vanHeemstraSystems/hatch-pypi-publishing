@@ -4,7 +4,7 @@
 
 [參考](./REFERENCES.md)
 
-**Executive Summary**
+**執行摘要**
 
 文字
 
