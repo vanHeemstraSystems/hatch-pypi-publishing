@@ -2,13 +2,13 @@ Repository-Name
 
 # Repository-Name
 
-[References](./REFERENCES.md)
+[Referenzen](./REFERENCES.md)
 
 **Zusammenfassung**
 
 Text
 
-## 100 - Introduction
+## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
