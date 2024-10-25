@@ -8,15 +8,15 @@ Repository-Name
 
 Text
 
-## 100 - Einführung
+## 100 - Introduction
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Requirements
 
 Sehen[README.md](./200/README.md)
 
-## 300 – Erstellen unserer Anwendung
+## 300 - Building Our Application
 
 Sehen[README.md](./300/README.md)
 
