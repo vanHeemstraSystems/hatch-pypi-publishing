@@ -2,9 +2,9 @@
 
 # भंडार का नाम
 
-[References](./REFERENCES.md)
+[संदर्भ](./REFERENCES.md)
 
-**Executive Summary**
+**कार्यकारी सारांश**
 
 मूलपाठ
 
