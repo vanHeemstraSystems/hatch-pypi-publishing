@@ -2,11 +2,11 @@ repositorynaam
 
 # Naam van opslagplaats
 
-[References](./REFERENCES.md)
+[Referenties](./REFERENCES.md)
 
 **Samenvatting**
 
-Text
+Tekst
 
 ## 100 - Introduction
 
