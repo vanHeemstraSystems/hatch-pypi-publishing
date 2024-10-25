@@ -10,5 +10,4 @@ You can also run ```hatch env show``` to see a full list of environments:
 
 ![hatch_env_show-001](https://github.com/user-attachments/assets/25d053ec-580c-46da-b004-42014ced43ee)
 
-
-MORE
+Each of these environments is populated with some dependencies (eg ```pytest``` and ```mypy```). You can also define project-specific dependencies if desired or run different Python scripts in different environments by specifying them in the ```scripts``` section of the environment. When no environment is chosen explicitly, Hatch uses the ```default``` environment.
