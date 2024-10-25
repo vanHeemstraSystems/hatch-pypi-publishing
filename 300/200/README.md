@@ -18,4 +18,8 @@ See [README.md](./300/README.md)
 
 See [README.md](./400/README.md)
 
+## 500 - Creating a Hatch Environment and Specifying Dependencies
+
+See [README.md](./500/README.md)
+
 MORE
