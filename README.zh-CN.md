@@ -1,10 +1,10 @@
 存储库名称
 
-# 存储库名称
+# Repository Name
 
 [参考](./REFERENCES.md)
 
-**执行摘要**
+**Executive Summary**
 
 文本
 
@@ -12,7 +12,7 @@
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
