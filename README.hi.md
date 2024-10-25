@@ -1,4 +1,4 @@
-repository-name
+भंडार-नाम
 
 # Repository Name
 
@@ -16,10 +16,10 @@ repository-name
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे एप्लिकेशन का निर्माण
 
 देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
