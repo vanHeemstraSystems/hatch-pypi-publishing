@@ -1,6 +1,6 @@
 nom du référentiel
 
-# Repository Name
+# Nom du référentiel
 
 [Références](./REFERENCES.md)
 
@@ -8,7 +8,7 @@ nom du référentiel
 
 Texte
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
@@ -22,4 +22,4 @@ See [README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-Voir[README.md](./400/README.md)
+See [README.md](./400/README.md)
