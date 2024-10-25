@@ -1,10 +1,10 @@
-repository-name
+儲存庫名稱
 
 # 儲存庫名稱
 
 [參考](./REFERENCES.md)
 
-**執行摘要**
+**Executive Summary**
 
 文字
 
@@ -22,4 +22,4 @@ repository-name
 
 ## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
