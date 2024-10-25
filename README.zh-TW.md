@@ -1,4 +1,4 @@
-儲存庫名稱
+repository-name
 
 # 儲存庫名稱
 
@@ -22,4 +22,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
