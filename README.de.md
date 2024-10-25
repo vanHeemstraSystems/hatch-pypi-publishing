@@ -4,7 +4,7 @@ Repository-Name
 
 [Referenzen](./REFERENCES.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
