@@ -4,7 +4,7 @@
 
 [مراجع](./REFERENCES.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
