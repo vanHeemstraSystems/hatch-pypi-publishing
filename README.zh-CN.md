@@ -8,7 +8,7 @@
 
 文本
 
-## 100 - Introduction
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
