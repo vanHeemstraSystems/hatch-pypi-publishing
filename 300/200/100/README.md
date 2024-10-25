@@ -10,3 +10,5 @@ Successfully installed click-8.1.7 hatch-1.13.0 hatchling-1.25.0 hyperlink-21.0.
 ```
 
 You can also install Hatch as an application on [Windows and Mac](https://hatch.pypa.io/latest/install/#installers) operating systems. [Conda](https://hatch.pypa.io/latest/install/#conda), [pipx](https://hatch.pypa.io/latest/install/#pipx), [Homebrew](https://hatch.pypa.io/latest/install/#homebrew), [MacPorts](https://hatch.pypa.io/latest/install/#macports), [Fedora](https://hatch.pypa.io/latest/install/#fedora), and [Void Linux](https://hatch.pypa.io/latest/install/#void-linux) installation methods are also available.
+
+We'll install it as part of the ```requirements.txt``` file ?!
