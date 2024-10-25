@@ -6,4 +6,12 @@ Now that you know how Hatch can help you, you can learn how to create different 
 
 See [README.md](./100/README.md)
 
+## 200 - Creating a Project
+
+See [README.md](./200/README.md)
+
+## 300 - Understanding Hatch Virtual Environments
+
+See [README.md](./300/README.md)
+
 MORE
