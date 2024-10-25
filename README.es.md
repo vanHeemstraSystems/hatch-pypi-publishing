@@ -10,7 +10,7 @@ Texto
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
@@ -22,4 +22,4 @@ Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
-See [README.md](./400/README.md)
+Ver[README.md](./400/README.md)
