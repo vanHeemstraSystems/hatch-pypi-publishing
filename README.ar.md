@@ -2,7 +2,7 @@
 
 # اسم المستودع
 
-[مراجع](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **ملخص تنفيذي**
 
