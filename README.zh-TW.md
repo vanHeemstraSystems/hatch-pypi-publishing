@@ -2,7 +2,11 @@
 
 # 儲存庫名稱
 
-基於“ABC”<https://www.abc.com/>
+[參考](./REFERENCES.md)
+
+**執行摘要**
+
+文字
 
 ## 100 - 簡介
 
