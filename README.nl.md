@@ -6,7 +6,7 @@ repositorynaam
 
 **Samenvatting**
 
-Text
+Tekst
 
 ## 100 - Inleiding
 
