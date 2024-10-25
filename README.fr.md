@@ -2,7 +2,7 @@ nom du référentiel
 
 # Nom du référentiel
 
-[Références](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **Résumé exécutif**
 
@@ -12,7 +12,7 @@ Texte
 
 Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - Requirements
 
 Voir[README.md](./200/README.md)
 
