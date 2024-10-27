@@ -1,6 +1,6 @@
 भंडार-नाम
 
-# भंडार का नाम
+# Repository Name
 
 [संदर्भ](./REFERENCES.md)
 
@@ -10,7 +10,7 @@
 
 ## 100 - परिचय
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
