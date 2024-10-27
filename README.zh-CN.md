@@ -6,9 +6,9 @@
 
 **执行摘要**
 
-文本
+Text
 
-## 100 - Introduction
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
