@@ -4,7 +4,7 @@ Repository-Name
 
 [Referenzen](./REFERENCES.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
@@ -12,11 +12,11 @@ Text
 
 Sehen[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 – Anforderungen
 
 Sehen[README.md](./200/README.md)
 
-## 300 – Erstellen unserer Anwendung
+## 300 - Building Our Application
 
 Sehen[README.md](./300/README.md)
 
