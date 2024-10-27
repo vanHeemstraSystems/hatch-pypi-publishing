@@ -1,3 +1,7 @@
 # 300 - Limitations of Virtual Environments with Hatch
 
-MORE
+While Hatch provides many benefits, there are a few limitations you need to be aware of:
+
+- **Lack of system-level (non-Python) dependency management**: One of the major issues you’ll encounter when utilizing Hatch for multiple environments is the “[it works on my machine](https://www.activestate.com/blog/how-to-eliminate-works-on-my-machine-issues/)” dilemma. Despite having identical Python dependencies in two environments, variations in non-Python dependencies can produce different results. This discrepancy is commonly observed with libraries like Matplotlib that rely on system-level libraries for tasks such as image rendering. These system-level dependencies may vary across systems, resulting in inconsistencies.
+- **Not suitable for extension modules**: Hatch lacks support for interfacing with interpreters or compilers, making it unsuitable for developing Python extension modules that need direct interaction with interpreters. It’s recommended that you utilize configuration management tools such as setuptools or other backends specifically designed for interfacing with compilers.
+- **No support for patch release versions**: Hatch uses a minor release granularity that follows the most recent patch release. Currently, it doesn’t allow the installation of certain patch release versions. It’s recommended that you use a different installation method if you place a high value on a particular patch release.
