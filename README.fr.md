@@ -1,4 +1,4 @@
-nom du référentiel
+repository-name
 
 # Nom du référentiel
 
@@ -8,7 +8,7 @@ nom du référentiel
 
 Texte
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
@@ -16,7 +16,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
