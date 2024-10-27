@@ -28,6 +28,13 @@ Hello, World!
 http://127.0.0.1:3000
 
 
+If you want to run a script from another environment, you need to specify the environment name and the script name. You can do this by adding ```<ENV_NAME>:``` before the script in the run commands. The value before ```:``` specifies the environment name, and the value after ```:``` specifies the script name.
+
+For example, you can run the ```test``` script in the ```test``` environment like this:
+
+```
+$ hatch run test:test
+```
 
 
 MORE
