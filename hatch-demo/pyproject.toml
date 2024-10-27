@@ -37,6 +37,7 @@ path = "src/hatch_demo/__about__.py"
 [tool.hatch.envs.default]
 dependencies = [
   "coverage[toml]>=6.5",
+  "pytest",
   "flask"
 ]
 [tool.hatch.envs.default.scripts]
@@ -46,6 +47,7 @@ app = "python src/hatch_demo/app.py"
 extra-dependencies = [
   "mypy>=1.0.0",
 ]
+
 [tool.hatch.envs.types.scripts]
 check = "mypy --install-types --non-interactive {args:src/hatch_demo tests}"
 
@@ -70,6 +72,9 @@ cov = [
 
 [[tool.hatch.envs.test.matrix]]
 python = ["3.10", "3.11"]
+
+[[tool.hatch.envs.all.matrix]]
+python = ["3.12"]
 
 [tool.coverage.run]
 source_pkgs = ["hatch_demo", "tests"]
