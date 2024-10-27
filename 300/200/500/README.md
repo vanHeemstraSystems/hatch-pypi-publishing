@@ -13,6 +13,7 @@ For this Flask app, you’ll use the default environment to run the Flask applic
 Make the following changes to the ```default``` environment:
 
 ```
+...
 [tool.hatch.envs.default]
 dependencies = [
   "coverage[toml]>=6.5",
@@ -20,8 +21,9 @@ dependencies = [
 ]
 [tool.hatch.envs.default.scripts]
 app = "python src/hatch_demo/app.py"
+...
 ```
-hatch_demo/Earthfile
+hatch_demo/pyproject.toml
 
 As you can see, Flask is mentioned in the dependencies, and the script that you need to test is mentioned in the ```scripts``` section of the environment.
 
@@ -50,3 +52,40 @@ cov = [
 hatch_demo/pyproject.toml
 
 Here, a new ```test``` environment is created with Python testing dependencies, and the ```scripts``` section uses ```pytest```.
+
+Add the Earthfile:
+
+```
+# Use a specific Python version
+FROM python:3.8
+WORKDIR /code
+
+deps:
+    # Install system-level dependencies
+    RUN apt-get update && apt-get install -y libpq-dev
+
+    # Install python packages
+    COPY requirements.txt ./
+    RUN pip3 install -r requirements.txt
+
+    # Copy in code
+    COPY --dir src tests
+    
+test:
+  FROM +deps
+  RUN python -m unittest tests/test_app.py
+  
+# Build the target and start the application
+docker:
+  ENV FLASK_APP=src/app.py
+  ENTRYPOINT ["flask", "run", "--host=0.0.0.0", "--port=3000"]
+  SAVE IMAGE my-python-app:latest
+  
+integration-tests:
+    FROM +deps 
+    RUN apk update && apk add postgresql-client
+    WITH DOCKER --compose docker-compose.yml 
+        RUN python test_db_end_to_end.py
+    END 
+```
+hatch_demo/Earthfile

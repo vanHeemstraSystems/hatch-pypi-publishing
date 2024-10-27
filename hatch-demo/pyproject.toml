@@ -34,6 +34,14 @@ Source = "https://github.com/Willem van Heemstra/hatch-demo"
 [tool.hatch.version]
 path = "src/hatch_demo/__about__.py"
 
+[tool.hatch.envs.default]
+dependencies = [
+  "coverage[toml]>=6.5",
+  "flask"
+]
+[tool.hatch.envs.default.scripts]
+app = "python src/hatch_demo/app.py"
+
 [tool.hatch.envs.types]
 extra-dependencies = [
   "mypy>=1.0.0",
@@ -48,9 +56,6 @@ dependencies = [
   "pytest-watcher"
 ]
 
-[[tool.hatch.envs.test.matrix]]
-python = ["3.10", "3.11"]
-
 [tool.hatch.envs.test.scripts]
 test = "pytest {args:tests}"
 test-cov = "coverage run -m pytest {args:tests}"
@@ -62,6 +67,9 @@ cov = [
   "test-cov",
   "cov-report",
 ]
+
+[[tool.hatch.envs.test.matrix]]
+python = ["3.10", "3.11"]
 
 [tool.coverage.run]
 source_pkgs = ["hatch_demo", "tests"]
