@@ -48,6 +48,9 @@ dependencies = [
   "pytest-watcher"
 ]
 
+[[tool.hatch.envs.test.matrix]]
+python = ["3.10", "3.11"]
+
 [tool.hatch.envs.test.scripts]
 test = "pytest {args:tests}"
 test-cov = "coverage run -m pytest {args:tests}"
