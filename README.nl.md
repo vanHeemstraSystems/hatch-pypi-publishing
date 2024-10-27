@@ -1,6 +1,6 @@
 repositorynaam
 
-# Repository Name
+# Naam van opslagplaats
 
 [Referenties](./REFERENCES.md)
 

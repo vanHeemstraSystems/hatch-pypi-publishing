@@ -2,11 +2,11 @@ nombre-repositorio
 
 # Nombre del repositorio
 
-[References](./REFERENCES.md)
+[Referencias](./REFERENCES.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
-Text
+Texto
 
 ## 100 - Introducción
 
@@ -18,7 +18,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-See [README.md](./300/README.md)
+Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
