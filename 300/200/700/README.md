@@ -72,6 +72,9 @@ $ hatch -e test run test
 
 The ```--env``` flag would work the same way here.
 
+## 100 - Removing an Environment
+
+See [README.md](./100/README.md)
 
 
 
