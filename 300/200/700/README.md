@@ -64,5 +64,15 @@ tests/test_app.py .                                                             
 ========================================================================================== 1 passed in 0.01s ==========================================================================================
 ```
 
+Another way to specify an environment is with the ```-e/--env``` flag. For instance, you can run the same test script using the ```-e``` flag like this:
+
+```
+$ hatch -e test run test 
+```
+
+The ```--env``` flag would work the same way here.
+
+
+
 
 MORE
