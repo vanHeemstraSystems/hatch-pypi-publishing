@@ -2,7 +2,7 @@ repositorynaam
 
 # Naam van opslagplaats
 
-[References](./REFERENCES.md)
+[Referenties](./REFERENCES.md)
 
 **Samenvatting**
 
