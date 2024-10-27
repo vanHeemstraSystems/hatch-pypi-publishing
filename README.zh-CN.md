@@ -1,4 +1,4 @@
-repository-name
+存储库名称
 
 # 存储库名称
 
@@ -8,9 +8,9 @@ repository-name
 
 文本
 
-## 100 - 简介
+## 100 - Introduction
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
