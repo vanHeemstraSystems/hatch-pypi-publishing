@@ -1,6 +1,6 @@
 nombre-repositorio
 
-# Repository Name
+# Nombre del repositorio
 
 [Referencias](./REFERENCES.md)
 
