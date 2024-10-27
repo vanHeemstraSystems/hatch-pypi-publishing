@@ -1,6 +1,6 @@
 اسم المستودع
 
-# اسم المستودع
+# Repository Name
 
 [مراجع](./REFERENCES.md)
 
