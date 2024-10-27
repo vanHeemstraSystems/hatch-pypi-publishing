@@ -4,7 +4,7 @@
 
 [参考](./REFERENCES.md)
 
-**Executive Summary**
+**执行摘要**
 
 文本
 
@@ -22,4 +22,4 @@
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
