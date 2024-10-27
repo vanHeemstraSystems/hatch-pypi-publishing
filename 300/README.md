@@ -17,4 +17,4 @@ See [README.md](./300/README.md)
 See [README.md](./400/README.md)
 
 
-WE ARE HERE: Back to publishing to PyPI now that we have a Python aplication in Hatch
+WE ARE HERE: Back to publishing to PyPI now that we have a Python application in Hatch.
