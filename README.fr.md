@@ -2,13 +2,13 @@ nom du référentiel
 
 # Nom du référentiel
 
-[References](./REFERENCES.md)
+[Références](./REFERENCES.md)
 
 **Executive Summary**
 
-Texte
+Text
 
-## 100 - Introduction
+## 100 - Présentation
 
 See [README.md](./100/README.md)
 
@@ -16,10 +16,10 @@ See [README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
