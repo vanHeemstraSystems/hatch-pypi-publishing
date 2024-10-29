@@ -4,7 +4,7 @@ nombre-repositorio
 
 [Referencias](./REFERENCES.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Texto
 
