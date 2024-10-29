@@ -39,9 +39,9 @@ We list the content for most of these files next.
 
 ## Installation
 
-```console
+\`\`\`console
 pip install hatch-demo
-```
+\`\`\`
 
 ## License
 
